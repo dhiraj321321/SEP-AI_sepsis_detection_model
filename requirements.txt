@@ -1,0 +1,8 @@
+flask
+flask-cors
+pandas
+numpy
+catboost
+openpyxl
+werkzeug
+psycopg2-binary
